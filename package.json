@@ -1,0 +1,28 @@
+{
+  "name": "november-2023-hiring-sankalp1011",
+  "version": "1.0.0",
+  "description": "This the submission task for dyte.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyte-submissions/november-2023-hiring-SANKALP1011.git"
+  },
+  "author": "sankalp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyte-submissions/november-2023-hiring-SANKALP1011/issues"
+  },
+  "homepage": "https://github.com/dyte-submissions/november-2023-hiring-SANKALP1011#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "commander": "^11.1.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "find-config": "^1.0.0",
+    "mongoose": "^8.0.1",
+    "nodemon": "^3.0.1"
+  }
+}
